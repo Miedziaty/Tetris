@@ -1,0 +1,6 @@
+﻿  Tetris.cpp
+C:\Users\trela\source\repos\Tetris\Tetris\IntroTetris.h(27,23): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\trela\source\repos\Tetris\Tetris\IntroTetris.h(30,72): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\trela\source\repos\Tetris\Tetris\IntroTetris.h(92,26): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\trela\source\repos\Tetris\Tetris\IntroTetris.h(93,30): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Tetris.vcxproj -> C:\Users\trela\source\repos\Tetris\x64\Debug\Tetris.exe
